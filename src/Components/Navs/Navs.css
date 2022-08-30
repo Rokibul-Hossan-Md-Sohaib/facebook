@@ -1,0 +1,30 @@
+
+.fb{
+    font-size: 30px !important;
+    color: blue;
+}
+.midle{
+    justify-content: center;
+    align-items: center;
+}
+.widgets_input{
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+
+    margin-left: 20px;
+}
+.widgets_input >input{
+    border: none;
+    background-color: white;
+}
+.widgets_searchIcon{
+    color: gray;
+    size: 20px;
+}
+.icons{
+    font-size: 30px;
+    color: gray;
+}
